@@ -1,6 +1,6 @@
 -- ================================================================
 -- Elections Database Management System:
--- queryAll.sql - Sample SQL queries for all requirements B.1-B.10
+-- queryAll.sql - Sample SQL queries
 -- 
 -- Author: Eric Martin
 -- Purpose: Implements all required queries and reports

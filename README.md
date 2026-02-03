@@ -209,4 +209,4 @@ This project demonstrates advanced database engineering concepts including:
 
 ---
 
-**🔗 Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+**🔗 Connect with me:** [LinkedIn](https://linkedin.com/in/eric-martin-51796b1a9)
